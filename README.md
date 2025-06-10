@@ -20,3 +20,7 @@ Categorical encoding (One-Hot Encoding)
 ## 📌 Key Findings:
 
 XGBoost outperformed others due to handling imbalanced data better.
+
+## 👨‍💻 Author: Valeska Tsui
+## 📧 Contact: caroline.xhc@gmail.com
+## ☎️ Phone: +852 68595812
