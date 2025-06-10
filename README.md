@@ -10,16 +10,9 @@ This project aims to predict whether a loan applicant is likely to default using
 
 The best-performing model can be used by financial institutions to assess credit risk and reduce defaults.
 
-## 📊 Data Preprocessing
-Handled missing values (imputation/removal)
+## 📊 Data Source
 
-Feature engineering
-
-Categorical encoding (One-Hot Encoding)
-
-## 📌 Key Findings:
-
-XGBoost outperformed others due to handling imbalanced data better.
+https://www.kaggle.com/datasets/gauravduttakiit/loan-defaulter
 
 ## 👨‍💻 Author: Valeska Tsui
 ## 📧 Contact: caroline.xhc@gmail.com
